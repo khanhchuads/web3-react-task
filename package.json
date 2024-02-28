@@ -44,7 +44,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khanhchuads/web3-react-task.git"
+    "url": "https://github.com/khanhchuads/web3-react-task.git"
   },
   "keywords": [
     "react",
